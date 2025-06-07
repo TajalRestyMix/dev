@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 
 # Crear directorio principal
 mkdir -p tajal-restaurante
